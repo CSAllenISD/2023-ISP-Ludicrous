@@ -7,3 +7,6 @@ BurntWaffleCake - Product Manager, Software Development Engineer
 Nigusi-Artabanus - Project Manager, Product Manager
 
 	https://www.codermerlin.com/users/jacob-fesseha/Digital%20Portfolio/index.html
+
+spectreseldom - QA Engineer
+	https://www.codermerlin.com/users/william-hutchings/Digital%20Portfolio/index.html
