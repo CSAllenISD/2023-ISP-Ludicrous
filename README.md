@@ -13,3 +13,7 @@ Nigusi-Artabanus - Project Manager, Product Manager
 spectreseldom - QA Engineer
 	
 	https://www.codermerlin.com/users/william-hutchings/Digital%20Portfolio/index.html
+	
+vivmed - QA Engineer
+
+	https://www.codermerlin.com/users/vivian-medina/Digital%20Portfolio/index.hml
