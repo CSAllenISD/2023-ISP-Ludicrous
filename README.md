@@ -4,7 +4,7 @@ JamesMDungan - Project Manager
 
 BurntWaffleCake - Product Manager
 
-	https://www.codermerlin.com/users/soohan-cho/Digital%20Portfolio/index.html
+	https://www.codermerlin.academy/users/soohan-cho/Digital%20Portfolio/CS-II/Projects/ISP/Journal.html
 
 Nigusi-Artabanus - Development Engineer
 
